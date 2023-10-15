@@ -1,0 +1,14 @@
+{
+  "name": "asgn3-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stock.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
